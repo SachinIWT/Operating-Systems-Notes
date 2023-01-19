@@ -32,7 +32,11 @@ The notes cover the following concepts:
 * Operating System Concepts by Silberschatz, Galvin and Gagne, 8th Edition [Textbook](https://github.com/SachinIWT/Operating-Systems-Notes/blob/master/Operating_System_Concepts%2C_8th_Edition%5BA4%5D.pdf)
 
 ## Additional Notes :
-Unit 1 [Notes - Types of OS](https://github.com/SachinIWT/Operating-Systems-Notes/blob/master/Types%20of%20Operating%20System-converted.pdf)
-GATE Numericals [Download](https://github.com/SachinIWT/Operating-Systems-Notes/blob/master/GATE%20PRACTICE%20PROBLEMS%20OS.docx)
+Unit 1 [Notes - Types of OS](https://github.com/SachinIWT/Operating-Systems-Notes/blob/master/Types%20of%20Operating%20System-converted.pdf)  
+GATE Numericals [Download](https://github.com/SachinIWT/Operating-Systems-Notes/blob/master/GATE%20PRACTICE%20PROBLEMS%20OS.docx)  
+
+## Lab Work : 
+Command Line in Linux [Online](https://www.coursera.org/learn/command-line-linux/home/welcome)
+BASH Scripts [Online](https://www.coursera.org/learn/introduction-to-bash-shell-scripting/home/welcome)
 <hr>
 
