@@ -36,7 +36,7 @@ Unit 1 [Notes - Types of OS](https://github.com/SachinIWT/Operating-Systems-Note
 GATE Numericals [Download](https://github.com/SachinIWT/Operating-Systems-Notes/blob/master/GATE%20PRACTICE%20PROBLEMS%20OS.docx)  
 
 ## Lab Work : 
-Command Line in Linux [Online](https://www.coursera.org/learn/command-line-linux/home/welcome)
-BASH Scripts [Online](https://www.coursera.org/learn/introduction-to-bash-shell-scripting/home/welcome)
+Command Line in Linux [Online](https://www.coursera.org/learn/command-line-linux/home/welcome)  
+BASH Scripts [Online](https://www.coursera.org/learn/introduction-to-bash-shell-scripting/home/welcome)  
 <hr>
 
