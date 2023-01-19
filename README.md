@@ -1,8 +1,8 @@
 <hr>
 
-# :books: Operating Systems Notes
+# Operating Systems Notes
 
-This repository contains all the important OS concepts and notes for Operating Systems course and also the [Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) course at Udacity. The repo contains summarized information and key points regarding the main OS concepts. 
+This repository contains all the important OS concepts and notes for Operating Systems course. The repo contains summarized information and key points regarding the main OS concepts. 
 
 You can use these notes as references to quickly revise the basic fundamentals of Operating Systems.
 
@@ -29,12 +29,7 @@ The notes cover the following concepts:
 
 ## References :
 
-* [Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) course at Udacity.
-* OS course.
 * Operating System Concepts by Silberschatz, Galvin and Gagne, 9th Edition Textbook.
 
 <hr>
 
-Contributions are most welcome! :)
-
-<hr>
