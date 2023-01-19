@@ -29,7 +29,9 @@ The notes cover the following concepts:
 
 ## References :
 
-* Operating System Concepts by Silberschatz, Galvin and Gagne, 9th Edition Textbook.
+* Operating System Concepts by Silberschatz, Galvin and Gagne, 8th Edition [Textbook](https://github.com/SachinIWT/Operating-Systems-Notes/blob/master/Operating_System_Concepts%2C_8th_Edition%5BA4%5D.pdf)
 
+## Additional Notes :
+Unit 1 [Notes - Types of OS](https://github.com/SachinIWT/Operating-Systems-Notes/blob/master/Types%20of%20Operating%20System-converted.pdf)
 <hr>
 
