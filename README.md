@@ -33,5 +33,6 @@ The notes cover the following concepts:
 
 ## Additional Notes :
 Unit 1 [Notes - Types of OS](https://github.com/SachinIWT/Operating-Systems-Notes/blob/master/Types%20of%20Operating%20System-converted.pdf)
+GATE Numericals [Download](https://github.com/SachinIWT/Operating-Systems-Notes/blob/master/GATE%20PRACTICE%20PROBLEMS%20OS.docx)
 <hr>
 
