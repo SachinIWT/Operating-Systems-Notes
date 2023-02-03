@@ -38,6 +38,8 @@ GATE Numericals [Download](https://github.com/SachinIWT/Operating-Systems-Notes/
 
 ## Lab Work : 
 Command Line in Linux [Online](https://www.coursera.org/learn/command-line-linux/home/welcome)  
-BASH Scripts [Online](https://www.coursera.org/learn/introduction-to-bash-shell-scripting/home/welcome)  
+BASH Scripts [Online](https://www.coursera.org/learn/introduction-to-bash-shell-scripting/home/welcome)
+The LINUX Foundation [Free Introduction Course](https://training.linuxfoundation.org/training/introduction-to-linux/)   
+
 <hr>
 
