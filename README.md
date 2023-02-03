@@ -33,7 +33,7 @@ The notes cover the following concepts:
 
 ## Additional Notes :
 Unit 1 [Notes - Types of OS](https://github.com/SachinIWT/Operating-Systems-Notes/blob/master/Types%20of%20Operating%20System-converted.pdf)  
-CPU Scheduling Numericals [Practice] (https://aissmspoly.org.in/wp-content/uploads/2020/01/CPU-Scheduling-and-Algorithm-.pdf)    
+CPU Scheduling Numericals [Practice](https://aissmspoly.org.in/wp-content/uploads/2020/01/CPU-Scheduling-and-Algorithm-.pdf)    
 GATE Numericals [Download](https://github.com/SachinIWT/Operating-Systems-Notes/blob/master/GATE%20PRACTICE%20PROBLEMS%20OS.docx)  
 
 ## Lab Work : 
